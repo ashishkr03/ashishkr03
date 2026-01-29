@@ -5,7 +5,8 @@ DevOps-oriented engineer with hands-on experience in Linux server administration
 Strong background in scripting and backend systems with Python, Bash, and PHP. Experienced in Jenkins, GitHub Actions, database administration, and production server management. Passionate about automation, scalability, and building resilient infrastructure.
 
 **Tech Focus:
-**Linux • AWS • Docker • CI/CD • Jenkins • GitHub Actions
+**
+Linux • AWS • Docker • CI/CD • Jenkins • GitHub Actions
 Python • Bash/Shell • LAMP/LEMP • DB & Server Administration
 
 <!---
